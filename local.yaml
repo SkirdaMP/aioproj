@@ -1,0 +1,3 @@
+# Write project configuration. Default path: aioproj\config.yaml
+#Example
+site_name: 'Aio Project'

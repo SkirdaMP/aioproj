@@ -1,2 +1,4 @@
 Pip*
 .vscode
+__pycache__
+config.yaml
