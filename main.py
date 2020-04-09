@@ -8,8 +8,8 @@ from aioproj import create_app
 from aioproj.settings import load_config
 
 parser = argparse.ArgumentParser(description="Aiohttp project")
-parser.add_argument('--host', help = 'Host to listen', default="127.0.0.1")
-parser.add_argument('--port', help = 'Port to accept connection', default='5000')
+parser.add_argument('--host', help = 'Host to listen', default="0.0.0.0")
+parser.add_argument('--port', help = 'Port to accept connection', default='8080')
 parser.add_argument(
     '--reload', 
     action="store_true", 
