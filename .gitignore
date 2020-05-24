@@ -1,4 +1,4 @@
-Pip*
+config
 .vscode
 __pycache__
-config.yaml
+aioenv

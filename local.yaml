@@ -1,5 +1,0 @@
-# Write project configuration. Default path: aioproj\config.yaml
-#Example
-site_name: 'Aio Project'
-database_uri: postgresql://user:password@localhost:5432/aioproj
-based_download: https://drive.google.com/uc?export=download&confirm=no_antivirus&id=
